@@ -1,0 +1,7 @@
+resources:
+- configmap/default-cfg.yaml
+- configmap/default-local.yaml
+- route/validation-flow-8001-route.yaml
+- route/validation-flow-9090-route.yaml
+- datapower/validation-flow-dps.yaml
+- service/validation-flow-service.yaml
