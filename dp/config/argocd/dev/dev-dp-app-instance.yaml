@@ -13,7 +13,7 @@ spec:
   project: applications
   source:
     path: dp/environments/dev/datapower/
-    repoURL: https://github.com/${GIT_ORG}/multi-tenancy-gitops-apps.git
+    repoURL: https://github.com/test-410/multi-tenancy-gitops-apps.git
     targetRevision: master
   syncPolicy:
     automated:
